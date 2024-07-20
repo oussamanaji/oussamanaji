@@ -1,13 +1,25 @@
-# 👋 Hello, I'm Oussama!
+<div align="center">
+  <img src="https://media.giphy.com/media/ULSJC4eXvXAPk7IyB3/giphy.gif" width="600" height="100" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oussamanaji/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/oussamanaji)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mohamedoussama.naji@georgebrown.ca)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://oussama.ai)
 
-## 🚀 AI & Reinforcement Learning Enthusiast | Applied AI Solutions Developer
 
-Currently pursuing an Applied AI Solutions Development program and seeking a co-op opportunity for Fall 2024. I'm passionate about pushing the boundaries of AI, with a special focus on Reinforcement Learning and innovative AI applications.
+<div align="center">
+  <a href="https://www.linkedin.com/in/oussamanaji/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedoussama.naji@georgebrown.ca">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/oussamanaji">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://oussama.ai">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+  </a>
+</div>
+
+Currently pursuing an Applied AI Solutions Development program and seeking a co-op opportunity for Fall 2024. I'm passionate about pushing the boundaries of AI, with a special focus on Reinforcement Learning and innovative AI applications in robotics.
 
 ## 🧠 Expertise
 
@@ -16,6 +28,7 @@ Currently pursuing an Applied AI Solutions Development program and seeking a co-
 - Computer Vision
 - Machine Learning
 - Deep Learning
+- Robotics
 
 ## 🌟 Featured Projects
 
@@ -38,6 +51,7 @@ A sophisticated recommendation system combining collaborative filtering and cont
 - **ML/DL**: TensorFlow, PyTorch, Scikit-learn
 - **NLP**: NLTK, SpaCy, Hugging Face Transformers
 - **Computer Vision**: OpenCV
+- **Robotics**: ROS (Robot Operating System)
 - **Data Processing**: Pandas, NumPy
 - **Cloud & DevOps**: AWS, Docker, Git
 
@@ -48,13 +62,13 @@ A sophisticated recommendation system combining collaborative filtering and cont
 
 ## 🌱 Current Focus
 
-- Advancing techniques in Deep Reinforcement Learning
-- Exploring applications of causal inference in AI
-- Developing scalable and ethical AI solutions for enterprise
+- Advancing techniques in Deep Reinforcement Learning for robotic control
+- Exploring applications of causal inference in AI and robotics
+- Developing scalable and ethical AI solutions for enterprise and autonomous systems
 
 ## 📬 Let's Connect!
 
-I'm always excited to collaborate on innovative AI projects or discuss the latest trends in reinforcement learning and applied AI. Feel free to reach out!
+I'm always excited to collaborate on innovative AI and robotics projects or discuss the latest trends in reinforcement learning and applied AI. Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/oussamanaji/">
   <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
