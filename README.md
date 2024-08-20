@@ -14,7 +14,7 @@
   <a href="https://github.com/oussamanaji">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
-  <a href="https://oussama.ai">
+  <a href="https://oussamanaji.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
   </a>
 </div>
